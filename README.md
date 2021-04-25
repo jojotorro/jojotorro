@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on eSports gaming
 - 📫 Reach me on jojotorro@icloud.com
 
->> MY CV <<
+>> MY CV 
 >> https://github.com/jojotorro/jojotorro/blob/main/Joseph%20Torrance%20CV%202021.pdf 
 
->> My 1st App <<
+>> My 1st App 
 >> Checkout my first app here >> https://jojotorro-jpmc.glideapp.io/
 
 <!---
